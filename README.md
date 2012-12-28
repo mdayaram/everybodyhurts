@@ -73,8 +73,6 @@ And here we go!
 
 
 ### I love you
-
-### Hug me
 <table>
 <tr>
 <th>Language</th>
