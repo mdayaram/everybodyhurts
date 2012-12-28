@@ -11,7 +11,7 @@ And here we go!
 <tr>
 <th>Language</th>
 <th>Hug me</th>
-<th>From?</th>
+<th>Legit Source</th>
 <th>Notes</th>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ And here we go!
 <td>Mandarin</td>
 <td>Bao bao</td>
 <td>Sharon Chen</td>
-<td></td>
+<td>Translates to 'hug hug' which is the way little children ask their parents for hugs.</td>
 </tr>
 <tr>
 <td>Japanese</td>
@@ -55,5 +55,11 @@ And here we go!
 <td>Faire la bise</td>
 <td>Phillipe Ajoux</td>
 <td>This translates to the kiss on the cheek greeting French people do.  There's no actual 'hug me' phrase in French.  Closest thing would be 'embrassez-moi' which means to caress intimately.</td>
+</tr>
+<tr>
+<td>Russian</td>
+<td>Day mne ruku</td>
+<td>Taxi Driver in SF</td>
+<td>Translates to 'give me a hand' but, according to the taxi driver, the semantics are the same.</td>
 </tr>
 </table>
