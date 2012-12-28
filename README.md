@@ -7,6 +7,7 @@ Everybody Hurts
 
 And here we go!
 
+### Hug me
 <table>
 <tr>
 <th>Language</th>
@@ -31,6 +32,12 @@ And here we go!
 <td>Bao bao</td>
 <td>Sharon Chen</td>
 <td>Translates to 'hug hug' which is the way little children ask their parents for hugs.</td>
+</tr>
+<tr>
+<td>Korean</td>
+<td>Ahn-ah-juh</td>
+<td>Jae Young Kim</td>
+<td></td>
 </tr>
 <tr>
 <td>Japanese</td>
@@ -61,5 +68,48 @@ And here we go!
 <td>Day mne ruku</td>
 <td>Taxi Driver in SF</td>
 <td>Translates to 'give me a hand' but, according to the taxi driver, the semantics are the same.</td>
+</tr>
+</table>
+
+
+### I love you
+
+### Hug me
+<table>
+<tr>
+<th>Language</th>
+<th>I love you</th>
+<th>Legit Source</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>English</td>
+<td>I love you</td>
+<td>Native</td>
+<td></td>
+</tr>
+<tr>
+<td>Spanish</td>
+<td>Te quiero</td>
+<td>Native</td>
+<td></td>
+</tr>
+<tr>
+<td>Mandarin</td>
+<td>Wo ai ni</td>
+<td>Sharon Chen</td>
+<td></td>
+</tr>
+<tr>
+<td>Korean</td>
+<td>Saranghae</td>
+<td>Jae Young Kim</td>
+<td></td>
+</tr>
+<tr>
+<td>Cantonese</td>
+<td>Wong aye nay</td>
+<td>Molly Zhang</td>
+<td></td>
 </tr>
 </table>
