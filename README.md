@@ -3,7 +3,7 @@ Everybody Hurts
 
 "Hug me" in as many languages as possible.  Inspired by this comic:
 
-[![sinfest.net](http://sinfest.net/comikaze/comics/2008-08-31.gif) "sinfest.net"](http://www.sinfest.net/archive_page.php?comicID=2917)
+[![sinfest.net](http://sinfest.net/comikaze/comics/2008-08-31.gif)](http://www.sinfest.net/archive_page.php?comicID=2917)
 
 And here we go!
 
