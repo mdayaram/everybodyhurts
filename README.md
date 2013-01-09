@@ -65,9 +65,9 @@ And here we go!
 </tr>
 <tr>
 <td>Russian</td>
-<td>Day mne ruku</td>
-<td>Taxi Driver in SF</td>
-<td>Translates to 'give me a hand' but, according to the taxi driver, the semantics are the same.</td>
+<td>Abnimi minya</td>
+<td>Yuliya Chekmareva</td>
+<td>I originally asked a Taxi driver who told me it was 'Day mne ruku' which translates to 'give me your hand'.  Yuliya was kind enough to correct such erroneous mistake.</td>
 </tr>
 </table>
 
