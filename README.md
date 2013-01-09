@@ -65,7 +65,7 @@ And here we go!
 </tr>
 <tr>
 <td>Russian</td>
-<td>Abnimi minya</td>
+<td>Obnimi menya</td>
 <td>Yuliya Chekmareva</td>
 <td>I originally asked a Taxi driver who told me it was 'Day mne ruku' which translates to 'give me your hand'.  Yuliya was kind enough to correct such erroneous mistake.</td>
 </tr>
