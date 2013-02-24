@@ -43,7 +43,13 @@ And here we go!
 <td>Japanese</td>
 <td>Daite kure</td>
 <td>Hiroyuki Ichikawa</td>
-<td></td>
+<td>So Matt (see below) mentioned that this might have implications beyond just 'hugging' in japanese culture.</td>
+</tr>
+<tr>
+<td>Japanese 2</td>
+<td>Dakishimeru</td>
+<td>Matt Mo</td>
+<td>This is supposed to be more accurate semantically in terms of just asking for a 'hug'</td>
 </tr>
 <tr>
 <td>Italian</td>
@@ -108,6 +114,12 @@ And here we go!
 <td>Cantonese</td>
 <td>Wong aye nay</td>
 <td>Molly Zhang</td>
+<td></td>
+</tr>
+<tr>
+<td>French</td>
+<td>Je t'aime</td>
+<td>Jessica Pan</td>
 <td></td>
 </tr>
 </table>
