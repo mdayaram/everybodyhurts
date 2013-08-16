@@ -34,6 +34,12 @@ And here we go!
 <td>Translates to 'hug hug' which is the way little children ask their parents for hugs.</td>
 </tr>
 <tr>
+<td>Cantonese</td>
+<td>Lahm lahm</td>
+<td>Yvonne Kong</td>
+<td>Translates to 'hug hug' which is the way little children ask their parents for hugs, similar to the Mandarin phrase.</td>
+</tr>
+<tr>
 <td>Korean</td>
 <td>Ahn-ah-juh</td>
 <td>Jae Young Kim</td>
